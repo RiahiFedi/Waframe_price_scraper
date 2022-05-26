@@ -1,7 +1,5 @@
 from urllib.request import urlopen as req_url
 import json
-import string
-import webbrowser
 import pandas as pd
 import time
 
